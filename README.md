@@ -6,6 +6,6 @@
 
 ## ## Salvando modificações no Git/Agora foi
 
-* Comando git push
-
 # # Salvando alterações
+
+* Comando no Git Push
