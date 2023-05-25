@@ -9,3 +9,4 @@
 # # Salvando alterações
 
 * Comando no Git Push
+* Comando Git Pull
